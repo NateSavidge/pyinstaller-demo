@@ -1,0 +1,8 @@
+# PyInstaller Binaries
+dist/
+build/
+
+# Other generated files
+*.spec
+__pycache__/
+*.DS_Store
